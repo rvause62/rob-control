@@ -3,9 +3,10 @@ const CACHE = "rob-control-v1";
 const SHELL = [
   "./",
   "./index.html",
-  "./app.js",
+  "./boot.js",
+  "./app.js.b64",
+  "./seed.json.b64",
   "./styles.css",
-  "./seed.json",
   "./manifest.webmanifest",
   "./icon-192.svg",
   "./icon-512.svg",
