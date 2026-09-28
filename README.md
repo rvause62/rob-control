@@ -1,2 +1,7 @@
-# rob-control
-Rob Control — personal daily ops (Today, Log, Library). Replaces MainDevice.
+# Rob Control
+
+Personal daily ops PWA (Today · Log · Library).
+
+**Live:** https://rvause62.github.io/rob-control/
+
+Publish source: `main` branch root (GitHub Pages).
